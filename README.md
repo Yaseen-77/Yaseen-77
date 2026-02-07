@@ -19,12 +19,42 @@ Currently, I am building backend-focused projects and exploring basic machine le
 
 <hr/>
 
-<h2>🛠️ Core Skills</h2>
+<h2>🛠️ Tech Stack</h2>
 
+<h3>Languages</h3>
 <p>
-<strong>Languages:</strong> Python, JavaScript<br/>
-<strong>Web Fundamentals:</strong> HTML, CSS<br/>
-<strong>Tools:</strong> Git, Linux (basic)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
+</p>
+
+<h3>Web & Backend</h3>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42"/>
+</p>
+
+<h3>Databases</h3>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/>
+</p>
+
+<h3>ML & Data</h3>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42"/>
+</p>
+
+<h3>Tools & Systems</h3>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/>
 </p>
 
 <hr/>
@@ -55,10 +85,12 @@ A personal web dashboard to organize and quickly access frequently used links.
 
 <p>
 <a href="https://www.linkedin.com/in/mohammed-yaseen-shaikh-089604378/" target="_blank">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 <hr/>
 
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Yaseen-77&show_icons=true&theme=default"/>
+</p>
